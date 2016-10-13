@@ -1,0 +1,1 @@
+../../src/disksim hybrid-maxtor-optimal10.parv test.outv ascii ~/Desktop/trace1/DispAdsData_second_80G.disX3 0 ssd0x0 "Reserve pages percentage" 10 

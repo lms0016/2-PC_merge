@@ -1,0 +1,13 @@
+fox-2merge-t1test01-opt-4G-IO1-a05.outv: LRU Stage Count = 1933
+fox-2merge-t1test02-opt-4G-IO1-a05.outv: LRU Stage Count = 1933
+fox-2merge-t1test03-opt-4G-IO1-a05.outv: LRU Stage Count = 3554078
+fox-2merge-t1test04-opt-4G-IO1-a05.outv: LRU Stage Count = 1506734
+fox-2merge-t1test05-opt-4G-IO1-a05.outv: LRU Stage Count = 20061155
+fox-2merge-t1test06-opt-4G-IO1-a05.outv: LRU Stage Count = 8850
+fox-2merge-t1test07-opt-4G-IO1-a05.outv: LRU Stage Count = 12989655
+fox-2merge-t1test09-opt-4G-IO1-a05.outv: LRU Stage Count = 0
+fox-2merge-t1test10-opt-4G-IO1-a05.outv: LRU Stage Count = 552018
+fox-2merge-t1test11-opt-4G-IO1-a05.outv: LRU Stage Count = 10358
+fox-2merge-t1test12-opt-4G-IO1-a05.outv: LRU Stage Count = 1506734
+fox-2merge-t1test13-opt-4G-IO1-a05.outv: LRU Stage Count = 427381
+fox-2merge-t1test14-opt-4G-IO1-a05.outv: LRU Stage Count = 33086

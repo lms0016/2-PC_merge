@@ -1,0 +1,13 @@
+fox-2merge-t1test01-opt-4G-IO1-a05.outv: FCL Foreground: Average queue length:    1.987030
+fox-2merge-t1test02-opt-4G-IO1-a05.outv: FCL Foreground: Average queue length:    1.987030
+fox-2merge-t1test03-opt-4G-IO1-a05.outv: FCL Foreground: Average queue length:    0.000000
+fox-2merge-t1test04-opt-4G-IO1-a05.outv: FCL Foreground: Average queue length:    9.163012
+fox-2merge-t1test05-opt-4G-IO1-a05.outv: FCL Foreground: Average queue length:    276841.651478
+fox-2merge-t1test06-opt-4G-IO1-a05.outv: FCL Foreground: Average queue length:    361.468715
+fox-2merge-t1test07-opt-4G-IO1-a05.outv: FCL Foreground: Average queue length:    263502.202998
+fox-2merge-t1test09-opt-4G-IO1-a05.outv: FCL Foreground: Average queue length:    0.000000
+fox-2merge-t1test10-opt-4G-IO1-a05.outv: FCL Foreground: Average queue length:    163327.697706
+fox-2merge-t1test11-opt-4G-IO1-a05.outv: FCL Foreground: Average queue length:    0.000000
+fox-2merge-t1test12-opt-4G-IO1-a05.outv: FCL Foreground: Average queue length:    9.163012
+fox-2merge-t1test13-opt-4G-IO1-a05.outv: FCL Foreground: Average queue length:    36.258889
+fox-2merge-t1test14-opt-4G-IO1-a05.outv: FCL Foreground: Average queue length:    0.661913

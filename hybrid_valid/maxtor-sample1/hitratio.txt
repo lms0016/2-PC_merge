@@ -1,0 +1,13 @@
+fox-2merge-t1test01-opt-4G-IO1-a05.outv: LRU hit ratio = 0.070062
+fox-2merge-t1test02-opt-4G-IO1-a05.outv: LRU hit ratio = 0.070062
+fox-2merge-t1test03-opt-4G-IO1-a05.outv: LRU hit ratio = 0.601024
+fox-2merge-t1test04-opt-4G-IO1-a05.outv: LRU hit ratio = 0.454327
+fox-2merge-t1test05-opt-4G-IO1-a05.outv: LRU hit ratio = 0.345841
+fox-2merge-t1test06-opt-4G-IO1-a05.outv: LRU hit ratio = 0.417352
+fox-2merge-t1test07-opt-4G-IO1-a05.outv: LRU hit ratio = 0.272296
+fox-2merge-t1test09-opt-4G-IO1-a05.outv: LRU hit ratio = 0.217569
+fox-2merge-t1test10-opt-4G-IO1-a05.outv: LRU hit ratio = 0.816409
+fox-2merge-t1test11-opt-4G-IO1-a05.outv: LRU hit ratio = 0.997805
+fox-2merge-t1test12-opt-4G-IO1-a05.outv: LRU hit ratio = 0.454327
+fox-2merge-t1test13-opt-4G-IO1-a05.outv: LRU hit ratio = 0.833823
+fox-2merge-t1test14-opt-4G-IO1-a05.outv: LRU hit ratio = 0.989552

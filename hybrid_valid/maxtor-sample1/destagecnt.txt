@@ -1,0 +1,13 @@
+fox-2merge-t1test01-opt-4G-IO1-a05.outv: LRU Destage Count = 1039872
+fox-2merge-t1test02-opt-4G-IO1-a05.outv: LRU Destage Count = 1039872
+fox-2merge-t1test03-opt-4G-IO1-a05.outv: LRU Destage Count = 0
+fox-2merge-t1test04-opt-4G-IO1-a05.outv: LRU Destage Count = 821376
+fox-2merge-t1test05-opt-4G-IO1-a05.outv: LRU Destage Count = 0
+fox-2merge-t1test06-opt-4G-IO1-a05.outv: LRU Destage Count = 4404608
+fox-2merge-t1test07-opt-4G-IO1-a05.outv: LRU Destage Count = 14227200
+fox-2merge-t1test09-opt-4G-IO1-a05.outv: LRU Destage Count = 10208256
+fox-2merge-t1test10-opt-4G-IO1-a05.outv: LRU Destage Count = 4776448
+fox-2merge-t1test11-opt-4G-IO1-a05.outv: LRU Destage Count = 0
+fox-2merge-t1test12-opt-4G-IO1-a05.outv: LRU Destage Count = 821376
+fox-2merge-t1test13-opt-4G-IO1-a05.outv: LRU Destage Count = 305536
+fox-2merge-t1test14-opt-4G-IO1-a05.outv: LRU Destage Count = 0

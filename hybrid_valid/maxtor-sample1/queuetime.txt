@@ -1,0 +1,5 @@
+fox-2merge-t1test10-opt-4G-IO1-a05.outv: FCL Foreground: Queue time average: 	797536.576664
+fox-2merge-t1test11-opt-4G-IO1-a05.outv: FCL Foreground: Queue time average: 	0.000000
+fox-2merge-t1test12-opt-4G-IO1-a05.outv: FCL Foreground: Queue time average: 	6996.073687
+fox-2merge-t1test13-opt-4G-IO1-a05.outv: FCL Foreground: Queue time average: 	2115.830904
+fox-2merge-t1test14-opt-4G-IO1-a05.outv: FCL Foreground: Queue time average: 	23.818110

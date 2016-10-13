@@ -1,0 +1,13 @@
+fox-2merge-t1test01-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	32518
+fox-2merge-t1test02-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	32518
+fox-2merge-t1test03-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	58250
+fox-2merge-t1test04-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	130368
+fox-2merge-t1test05-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	317616
+fox-2merge-t1test06-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	199858
+fox-2merge-t1test07-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	873226
+fox-2merge-t1test09-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	521224
+fox-2merge-t1test10-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	94153
+fox-2merge-t1test11-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	0
+fox-2merge-t1test12-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	130368
+fox-2merge-t1test13-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	150108
+fox-2merge-t1test14-opt-4G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	314

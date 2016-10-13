@@ -1,0 +1,5 @@
+fox-2merge-t1test10-opt-4G-IO1-a05.outv: FCL Foreground: Response time average: 	797658.342951
+fox-2merge-t1test11-opt-4G-IO1-a05.outv: FCL Foreground: Response time average: 	2.231587
+fox-2merge-t1test12-opt-4G-IO1-a05.outv: FCL Foreground: Response time average: 	7053.110191
+fox-2merge-t1test13-opt-4G-IO1-a05.outv: FCL Foreground: Response time average: 	2159.657092
+fox-2merge-t1test14-opt-4G-IO1-a05.outv: FCL Foreground: Response time average: 	27.956673
